@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/honorezemagho](https://dev.to/honorezemagho)
 
-- 💬 Ask me about **react,vue,php, laravel**
+- 💬 Ask me about **NodeJs,react,vue,php, laravel**
 
 - 📫 How to reach me **honorezemagho@gmail.com**
 
