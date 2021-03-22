@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Warehouse Project**
 
-- 🌱 I’m currently learning **MongoDB,Vue.js, Django**
+- 🌱 I’m currently learning **Python, Django**
 
 - 👯 I’m looking to collaborate on **php and Javascript Projects**
 
