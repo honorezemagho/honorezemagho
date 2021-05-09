@@ -43,7 +43,7 @@
  <h3 align="left">Databases:</h3>
 
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" width="40" height="40"/></a>
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" width="40" height="40"/> <a/>
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
 <p align="left">
@@ -58,7 +58,7 @@
 <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
 <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
 <a href="https://d3js.org/" target="_blank"> <img src="https://simpleicons.org/icons/d3-dot-js.svg" alt="d3js" width="40" height="40"/> </a> 
-  </p>
+ </p>
 
 <p align="left">
  <h3 align="left">Tools and Utilies:</h3>
